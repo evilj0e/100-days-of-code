@@ -20,3 +20,12 @@
 **Link(s) to work**
 1. [Advent of code / Day 2](http://adventofcode.com/2016/day/2)
 2. [The solution](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%202/solution.js)
+
+### Day 3: January 10, 2017 
+
+**Today's Progress**: In process with the extra task of the second level of [Advent of code](http://adventofcode.com/2016/day/2).
+
+**Thoughts** Fixing computation bug
+
+**Link(s) to work**
+1. [Advent of code / Day 2](http://adventofcode.com/2016/day/2)
