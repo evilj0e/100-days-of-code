@@ -29,3 +29,16 @@
 
 **Link(s) to work**
 1. [Advent of code / Day 2](http://adventofcode.com/2016/day/2)
+
+### Day 4: January 11, 2017 
+
+**Today's Progress**: Fixed bug in the solvation of the extra task of the second level of [Advent of code](http://adventofcode.com/2016/day/2). Also I've done all tasks (with extra star) for the third level.
+
+**Thoughts** It looks like that tasks are getting easier. 
+
+**Link(s) to work**
+1. [Advent of code / Day 2](http://adventofcode.com/2016/day/2)
+2. [Advent of code / Day 3](http://adventofcode.com/2016/day/3)
+3. [The solution of the extra task of Day 2](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%202/extra.js)
+4. [The solution of Day 3](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%203/solution.js)
+5. [The solution of the extra task of Day 3](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%203/extra.js)
