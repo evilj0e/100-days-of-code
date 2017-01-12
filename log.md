@@ -42,3 +42,12 @@
 3. [The solution of the extra task of Day 2](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%202/extra.js)
 4. [The solution of Day 3](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%203/solution.js)
 5. [The solution of the extra task of Day 3](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%203/extra.js)
+
+### Day 5: January 12, 2017 
+
+**Today's Progress**: I have stucked on the task of the 4 level in “Advent of code”.
+
+**Thoughts** I think, the "Thoughts" of Day 4 is a mistake. 
+
+**Link(s) to work**
+1. [Advent of code / Day 4](http://adventofcode.com/2016/day/4)
