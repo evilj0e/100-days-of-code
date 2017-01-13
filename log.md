@@ -51,3 +51,13 @@
 
 **Link(s) to work**
 1. [Advent of code / Day 4](http://adventofcode.com/2016/day/4)
+
+### Day 6: January 13, 2017 
+
+**Today's Progress**: I've done the first part of 4th level of [Advent of code](http://adventofcode.com/2016/day/4).
+
+**Thoughts** Sometimes you sould rethink your solution.
+
+**Link(s) to work**
+1. [Advent of code / Day 4](http://adventofcode.com/2016/day/4)
+2. [The solution of Day 4](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%204/solution.js)
