@@ -61,3 +61,13 @@
 **Link(s) to work**
 1. [Advent of code / Day 4](http://adventofcode.com/2016/day/4)
 2. [The solution of Day 4](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%204/solution.js)
+
+### Day 7: January 17, 2017 
+
+**Today's Progress**: I've done the extra part of 4th level of [Advent of code](http://adventofcode.com/2016/day/4).
+
+**Thoughts** When you are ill the challenge becomes impossible.
+
+**Link(s) to work**
+1. [Advent of code / Day 4](http://adventofcode.com/2016/day/4)
+2. [The extra of Day 4](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%204/solution.js)
