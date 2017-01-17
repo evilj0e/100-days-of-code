@@ -56,7 +56,7 @@
 
 **Today's Progress**: I've done the first part of 4th level of [Advent of code](http://adventofcode.com/2016/day/4).
 
-**Thoughts** Sometimes you sould rethink your solution.
+**Thoughts** Sometimes you should rethink your solution.
 
 **Link(s) to work**
 1. [Advent of code / Day 4](http://adventofcode.com/2016/day/4)
