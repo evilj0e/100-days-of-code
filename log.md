@@ -80,3 +80,14 @@
 
 **Link(s) to work**
 1. ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730)
+
+### Day 9: January 19, 2017 
+
+**Today's Progress**: I've done the 5 level of [Advent of code](http://adventofcode.com/2016/day/5).
+
+**Thoughts** It was so easy.
+
+**Link(s) to work**
+1. [Advent of code / Day 5](http://adventofcode.com/2016/day/5)
+2. [The solution of Day 5](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%205/solution.js)
+3. [The solution of the extra task of Day 5](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%205/extra.js)
