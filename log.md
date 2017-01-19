@@ -71,3 +71,12 @@
 **Link(s) to work**
 1. [Advent of code / Day 4](http://adventofcode.com/2016/day/4)
 2. [The extra of Day 4](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%204/solution.js)
+
+### Day 8: January 18, 2017 
+
+**Today's Progress**: I've started "Deep Learning" course by Google on Udacity.
+
+**Thoughts** Programming on Python is so funny.
+
+**Link(s) to work**
+1. ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730)
