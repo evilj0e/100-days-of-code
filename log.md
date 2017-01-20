@@ -91,3 +91,7 @@
 1. [Advent of code / Day 5](http://adventofcode.com/2016/day/5)
 2. [The solution of Day 5](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%205/solution.js)
 3. [The solution of the extra task of Day 5](https://github.com/evilj0e/advent-of-code-2016/blob/master/Day%205/extra.js)
+
+### Day 10: January 20, 2017 
+
+**Today's Progress**: I'm working on the 6 level of [Advent of code](http://adventofcode.com/2016/day/6).
